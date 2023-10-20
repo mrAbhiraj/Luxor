@@ -1,2 +1,2 @@
 # Luxor
-its one of the web project 
+its one of the web projects
